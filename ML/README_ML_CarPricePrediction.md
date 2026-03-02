@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction — Cars 4 You
+# Used Car Price Prediction — Cars 4 You
 
 **Machine Learning Project** | MSc Data Science & Advanced Analytics | NOVA IMS
 
