@@ -1,4 +1,4 @@
-# ✈️ Airline Customer Segmentation — AIAI Loyalty Program
+# Airline Customer Segmentation — AIAI Loyalty Program
 
 **Data Mining Project** | MSc Data Science & Advanced Analytics | NOVA IMS
 
