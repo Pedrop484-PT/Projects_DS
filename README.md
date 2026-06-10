@@ -1,16 +1,13 @@
 # Projects_DS
 
-Coursework from the MSc in Data Science and Advanced Analytics at NOVA IMS. The main projects now live in dedicated repositories:
+This repository is an index. Each project from my MSc in Data Science and Advanced Analytics (NOVA IMS) lives in its own repository:
 
 | Repository | What it is |
 |---|---|
 | [flight-delay-prediction-spark](https://github.com/Pedrop484-PT/flight-delay-prediction-spark) | PySpark ETL and delay prediction over 3M US flight records |
 | [painting-authorship-cnn](https://github.com/Pedrop484-PT/painting-authorship-cnn) | CNN painter attribution on 13,340 WikiArt paintings |
 | [financial-tweet-sentiment](https://github.com/Pedrop484-PT/financial-tweet-sentiment) | Sentiment classification of 9,500 finance tweets |
-| [used-car-price-prediction](https://github.com/Pedrop484-PT/used-car-price-prediction) | Price regression, R² 0.97 on held-out test |
-
-Kept in this repository:
-
-- `Data Mining/` clustering-based airline customer segmentation (K-Means, see `README_DataMining_AirlineSegmentation.md`)
-- `Data R&S/` MySQL database design for a pet-services business: schema, views, triggers (see `README_DataRS_PawPal.md`)
-- `ML/` original location of the car price project, now in its own repository
+| [used-car-price-prediction](https://github.com/Pedrop484-PT/used-car-price-prediction) | Price regression, R² 0.97 on the held-out test set |
+| [airline-customer-segmentation](https://github.com/Pedrop484-PT/airline-customer-segmentation) | Clustering of 16,735 airline loyalty customers |
+| [pawpal-mysql-database](https://github.com/Pedrop484-PT/pawpal-mysql-database) | MySQL schema, triggers and SQL-view invoicing |
+| [genetic-avatar](https://github.com/Pedrop484-PT/genetic-avatar) | My GitHub avatar, evolved by a genetic algorithm |
